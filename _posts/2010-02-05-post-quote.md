@@ -1,7 +1,6 @@
 ---
-title: "Post: Quote"
-categories:
-  - Blog
+title: "Model Quote"
+
 ---
 
 > An agent does not have a model of its world - it is a model.
