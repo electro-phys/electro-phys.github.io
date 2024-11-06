@@ -1,6 +1,6 @@
 ---
 title: "Model Quote"
-
+date: 2021-11-05
 ---
 
 > An agent does not have a model of its world - it is a model.
