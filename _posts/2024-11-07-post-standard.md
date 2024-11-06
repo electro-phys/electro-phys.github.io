@@ -1,6 +1,6 @@
 ---
 title: "Placeholder Post"
-
+date: 2024-11-07
 ---
 
 This is a placeholder file for whenever I have some good ideas.
