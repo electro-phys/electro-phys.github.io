@@ -61,7 +61,7 @@ author:
   bio    : "Professional neuron wrangler and amateur theorist. Loves long walks on the beach and dynamical systems"
   links:
     - label: "Substack"
-      icon: "fas fa-fw fa-substack"
+      icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
