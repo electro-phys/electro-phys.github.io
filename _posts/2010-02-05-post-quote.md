@@ -2,11 +2,8 @@
 title: "Post: Quote"
 categories:
   - Blog
-tags:
-  - Post Formats
-  - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+> An agent does not have a model of its world - it is a model.
   
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+> <cite><a href="[http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html](https://www.goodreads.com/author/quotes/607211.Karl_J_Friston#:~:text=Friston%20Quotes&text=An%20agent%20does%20not%20have,be%20predicted%20from%20our%20environment.)">Karl Friston</a></cite>
