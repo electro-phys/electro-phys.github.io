@@ -1,6 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-layout: posts
 author_profile: true
 ---
+
+Test text. Something about research. Need some pictures for cooler layout design
